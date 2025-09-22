@@ -54,7 +54,7 @@ I am an aspiring software engineer based in London, UK.</h2>
   </tr>
   <tr>
     <td align="center">
-      <a href="Nowres-Al-Rubaie-Computer-Science-CV.pdf" target="_blank" title="View CV">
+      <a href="nowres-al-rubaie-computer-science-cv.pdf" target="_blank" title="View CV">
         <img src="https://cdn-icons-png.flaticon.com/512/136/136522.png" 
              alt="CV" width="40" height="40" class="icon-hover"/>
       </a>
