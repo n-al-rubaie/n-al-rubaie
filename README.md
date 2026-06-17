@@ -9,6 +9,7 @@ I am a data professional based in London, UK.</h2>
 - 🔍 Open to **data professional roles, specifically data analyst roles**
 - 🗣️ Languages: **English (native), Arabic**
 - 🛂 British Citizen
+- 🔗 [Click here to view my Starbucks Nutrition Dashboard on Tableau Public](https://public.tableau.com/app/profile/nowres.al.rubaie/viz/StarbucksNutrition-UpdatedVersion/Dashboard2?publish=yes)
 
 <h3 align="left">Languages and Tools:</h3>
 
