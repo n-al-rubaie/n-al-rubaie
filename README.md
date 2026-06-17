@@ -54,7 +54,7 @@ I am a data professional based in London, UK.</h2>
   </tr>
   <tr>
     <td align="center">
-      <a href="nowres-al-rubaie-computer-science-cv.pdf" target="_blank" title="View CV">
+      <a href="https://github.com/n-al-rubaie/Data-Professional-CV-Nowres-Al-Rubaie/blob/main/Data%20Professional%20CV%20-%20Nowres%20Al-Rubaie.pdf" target="_blank" title="View CV">
         <img src="https://cdn-icons-png.flaticon.com/512/136/136522.png" 
              alt="CV" width="40" height="40" class="icon-hover"/>
       </a>
