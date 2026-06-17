@@ -1,12 +1,12 @@
 <h2>Hi, my name is Nowres. 
-I am an aspiring software engineer based in London, UK.</h2>
+I am a data professional based in London, UK.</h2>
 
 <h3>About me</h3>
 
 - 🎓 **BSc Computer Science – First Class** | University of Roehampton, London
-- 🛠️ I’m currently working on **contributing to open source projects**
+- 🛠️ I’m currently working on **professional data projects**
 - 💻 Programming languages: **Python (core language)**, JavaScript (intermediate), SQL
-- 🔍 Seeking for **an entry-level software engineer position (preferably in Python)**
+- 🔍 Open to **data professional roles, specifically data analyst roles**
 - 🗣️ Languages: **English (native), Arabic**
 - 🛂 British Citizen
 
